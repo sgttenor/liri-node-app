@@ -4,10 +4,10 @@ This application uses node.JS to log out information from Spotify, OMDB and Band
 when using the application type in 'node liri.js and either 'concert-this', 'movie-this', 'spotify-this-song', and 'do-this' to access information.
 
 first we will use spotify-this-song and query a song of choice. (I enjoy Billy Joel so I will use his song 'Piano Man')
-![alt text](https://github.com/sgttenor/screenshots/blob/master/Screenshot%20(1).png)
+![screenshot1](https://github.com/sgttenor/screenshots/blob/master/Screenshot%20(1).png)
 
 Results will give you the name of the song, Artist, Song title, album from where it's from, and link to a preview of the song.
-[screenshot2](https://github.com/sgttenor/screenshots/blob/master/Screenshot%20(2).png)
+![screenshot2](https://github.com/sgttenor/screenshots/blob/master/Screenshot%20(2).png)
 
 Next we will use 'movie-this' to provide movie information... Who hasn't seen spaceballs?
 ![screenshot3](https://github.com/sgttenor/screenshots/blob/master/Screenshot%20(3).png)
