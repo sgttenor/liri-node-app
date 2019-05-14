@@ -109,7 +109,7 @@ function doThis() {
 
             // Print each element (item) of the array/
             console.log(output[i]);
-            spotifyThis(output);
+           
         }
     });
 }
@@ -121,7 +121,7 @@ switch (userInput) {
         concertThis();
         break;
     //     //Spotify Case
-    case 'spotify-this-song':
+    case 'spotify-this':
         spotifyThis();
         break;
     //     //Movie Case
@@ -134,5 +134,5 @@ switch (userInput) {
         break;
     //     //Default
     default:
-        console.log("Please enter one of the following commands: concert-this, spotify-this-song, movie-this, or do-this");
+        console.log("Please enter one of the following commands: concert-this, spotify-this, movie-this, or do-this");
 }
