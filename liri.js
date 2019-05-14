@@ -37,7 +37,7 @@ function spotifyThis() {
         let songArr = data.tracks.items;
 
         for (i = 0; i < songArr.length; i++) {
-            console.log(JSON.stringify(songArr, null, 2))
+            //console.log(JSON.stringify(songArr, null, 2))
             console.log("Artist: " + data.tracks.items[i].artists[0].name);
             console.log("Song: " + data.tracks.items[i].name);
             console.log("Album: " + data.tracks.items[i].album.name);
